@@ -17,10 +17,10 @@ To get started with this project, follow these steps:
 ### File Structure
 dance-masterclass/
 │
-├── ignore.js
+├── ignore.js (Pls, ignore this script as its just to submit a dance pictures rather than blank script)
 ├── index.html
 ├── README.md
-├── script.js
+├── script.js (Here is the replica of my script on Cookiebot)
 └── style.css
 
 2. Open the index.html file on your browser
