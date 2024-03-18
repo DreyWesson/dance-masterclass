@@ -36,7 +36,7 @@ To see the functionality you can use Vscode liveserver extension to open the ind
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
