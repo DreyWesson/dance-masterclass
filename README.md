@@ -17,13 +17,15 @@ To get started with this project, follow these steps:
 
 
 ### File Structure
+```bash
 dance-masterclass/
 │
-├── ignore.js (Pls, ignore this script as its just to submit a dance pictures rather than blank script)
+├── ignore.js (Pls, ignore this script as it's just to submit dance pictures rather than a blank script)
 ├── index.html
 ├── README.md
 ├── script.js (Here is the replica of my script on Cookiebot)
 └── style.css
+```
 
 2. Open the index.html file on your browser
 To see the functionality you can use Vscode liveserver extension to open the index.html file
